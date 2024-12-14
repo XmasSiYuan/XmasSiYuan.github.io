@@ -1,4 +1,4 @@
-Ciallo～(∠·ω&lt; )⌒★, I am Siyuan, an ordinary person, I like to study Scratch (I may try real programming languages ​​in the future, such as: c++, java, etc., currently Python only has print), I like FH4, Mijia games, etc.
+Ciallo～(∠·ω&lt; )⌒★, I am Siyuan, an ordinary person, I like to study Scratch (I may try real programming languages ​​in the future, such as: c++, java, etc., currently Python only has print), I like FH4, Mihoyo games, etc.
 
 The current Scratch project is "KuOS" (a simulated desktop operating system based on HTML), and the project speed is slowed down due to academic reasons; there are other projects.
     
