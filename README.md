@@ -1,5 +1,6 @@
 个人博客
-网页由Hux blog(https://github.com/Huxpro/huxpro.github.io)模板修改而来,感謝!
+
+网页由Hux blog(https://github.com/Huxpro/huxpro.github.io) 模板修改而来,感謝作者!
 
 
 
