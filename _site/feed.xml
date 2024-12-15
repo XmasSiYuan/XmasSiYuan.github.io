@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SiYuan Blog</title>
+    <description>114514</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 15 Dec 2024 14:42:51 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Dec 2024 14:42:51 +0800</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>第一个博客文章</title>
+        <description>&lt;p&gt;从这个第一个博客文章开始，SiYuan会在这个博客上随便写些文章，&lt;/p&gt;
+
+&lt;p&gt;和KuOS的scratch更新日志（从这篇文章后更新的版本开始写更新日志）。&lt;/p&gt;
+
+&lt;p&gt;开始吧~&lt;/p&gt;
+
+&lt;p&gt;-24/12/14&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Dec 2024 13:04:00 +0800</pubDate>
+        <link>http://localhost:4000/2024/12/14/First-Blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/12/14/First-Blog/</guid>
+        
+        <category>Test Blog</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>KuOS 更新日志 #1</title>
+        <description>&lt;p&gt;更新内容:&lt;/p&gt;
+
+&lt;p&gt;1.更换了开始菜单和通知中心关闭判断,不再有延迟了.&lt;/p&gt;
+
+&lt;p&gt;2.增加了窗囗活动应用判断,解决了关闭按钮有时会不正确显示.&lt;/p&gt;
+
+&lt;p&gt;3.开始菜单和通知中心增加了元素.&lt;/p&gt;
+
+&lt;p&gt;已知bugs:&lt;/p&gt;
+
+&lt;p&gt;1.锁屏按钮仍不起作用.&lt;/p&gt;
+
+&lt;p&gt;2.对于更新内容第二点,实际上在更新窗口活动应用时,如果鼠标是直接拖动窗囗而不是单点,会导致更新活动失败,造成包括在内所有元素不会随窗囗移动,后面会修复.&lt;/p&gt;
+
+&lt;p&gt;其他：&lt;/p&gt;
+
+&lt;p&gt;音乐应用ui已确认,功能应该能一一做出来,但以最后成品为效.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://image.nekoyuan.top/KuOS%20sys%20up%20%231-1.jpg?e=1734245251&amp;amp;token=jdmgvnOEWOVLAMPa56Splm4ApG83KOE-bGXBZ94i:3AOEdN1rztufYYUUgfkESa3aK3o=&quot; alt=&quot;KuOS Music&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Dec 2024 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2024/12/14/KuOS-System-Update/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/12/14/KuOS-System-Update/</guid>
+        
+        <category>KuOS System Update log</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
