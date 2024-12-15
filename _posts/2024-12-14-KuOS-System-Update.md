@@ -28,4 +28,4 @@ tags:
 音乐应用ui已确认,功能应该能一一做出来,但以最后成品为效.
 
 
-![KuOS Music](/img/KuOS sys up #1-1.jpg)
+![KuOS Music](http://image.nekoyuan.top/KuOS%20sys%20up%20%231-1.jpg?e=1734245251&token=jdmgvnOEWOVLAMPa56Splm4ApG83KOE-bGXBZ94i:3AOEdN1rztufYYUUgfkESa3aK3o=)
